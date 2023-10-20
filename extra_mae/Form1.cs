@@ -16,6 +16,7 @@ namespace extra_mae
         {
             InitializeComponent();
         }
+        //測試GIT
         Regex reg = new Regex(@"[()]+");
         Bitmap bmp = new Bitmap(1, 1);
         int count = 0, father = 0;
